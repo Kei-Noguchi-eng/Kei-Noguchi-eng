@@ -1,16 +1,20 @@
-### Hi there 👋
+### Kei-Noguchi のアカウントです。
 
-<!--
-**Kei-Noguchi-eng/Kei-Noguchi-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 転職活動
+2023年9月末日で退職するため、転職活動を行っております。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### pythonアプリケーション
+自己アピール資料として、OpenCVを利用した以下の機能を持つ EasyCompare を開発中です。
+
+(現在 EasyCompare/feature_Trial のブランチで試作版を製作中) 
+
+
+・動画からの png 画像の抽出
+
+・抽出した画像と探索対象の画像との比較
+
+アピールの公開頻度を増やすため、ローカルでやるような修正も含め公開しています。
+
+お目汚しになるかもしれませんが、ご参考になれば幸いです。
